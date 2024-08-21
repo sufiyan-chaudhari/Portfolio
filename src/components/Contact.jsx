@@ -141,7 +141,7 @@ const Contact = () => {
               </div>
               <div className="flex justify-between ">
                 <div className="underline">
-                  <a href="mailto:msufiyanhusen@gmail">
+                  <a href="mailto:msufiyanhusen@gmail.com">
                     Send me email directly
                   </a>
                 </div>
@@ -164,7 +164,7 @@ const Contact = () => {
             </a>
             <h1 className="text-3xl font-bold">Email</h1>
             <a
-              href="hello"
+              href="mailto:msufiyanhusen@gmail.com"
               className="mb-12 mt-4 font-semibold text-blue-700 block "
             >
               msufiyanhusen@gmail.com
